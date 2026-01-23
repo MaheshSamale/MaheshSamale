@@ -1,43 +1,46 @@
-```markdown
-# Hi there! 👋 I'm Mahesh Samale
+# Hi — I’m Mahesh Samale 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=31859C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Enthusiast;AI+Integration+Specialist;Turning+Ideas+into+Code" alt="Typing SVG" />
+Full‑Stack Developer • Mobile App Enthusiast • AI Integrator
 
-**Parbhani → Pune** | 📧 [maheshsamale7@gmail.com](mailto:maheshsamale7@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-samale-a0140b2b2)
-
-**PG-DMC Mobile Computing** (Sunbeam Institute) | **B.Tech CSE** (73% - 2025)
-
-## 🚀 Full-Stack Developer
-Building **production websites** & **AI-powered apps**
-
-**🔥 Key Highlights:**
-- **Freelance**: [phpdhires.com](https://phpdhires.com/) - Complete production website
-- **Safhire.ai**: React UIs + Node/Express APIs (live HR platform)
-- **Hackathon Winner**: Blog system in **6 hours**
-
-## 🛠️ Tech Stack
-```
-Frontend: React, React Native, JavaScript
-Backend: Node.js, Express, Spring Boot
-Mobile: Android (Java), iOS (Swift)
-Database: MongoDB, MySQL
-AI: Vertex AI (Certified)
-```
-
-## 🔥 Featured Projects
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| **[HireWrite](https://github.com/MaheshSamale/HireWrite-Project)** | React Native + Node + MySQL | [Repo](https://github.com/MaheshSamale/HireWrite-Project) |
-| **[Cover Letter AI](https://github.com/MaheshSamale/cover-letter-generator)** | React + Vertex AI | [Repo](https://github.com/MaheshSamale/cover-letter-generator) |
-| **[CA Assist](https://github.com/MaheshSamale/ca-assist-tool)** | React + MongoDB | [Repo](https://github.com/MaheshSamale/ca-assist-tool) |
+Parbhani → Pune • 📧 [maheshsamale7@gmail.com](mailto:maheshsamale7@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-samale-a0140b2b2)
 
 ---
 
-**🚀 Open to freelance, full-time, collaborations!**
+A practical, delivery-focused developer building production web and mobile apps with AI capabilities. I ship end-to-end features — from UI to backend APIs and data — and enjoy solving real user problems with pragmatic engineering.
 
-**📊 GitHub Stats**
-![Stats](https://github-readme-stats.vercel.app/api?username=MaheshSamale&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=MaheshSamale&layout=compact&theme=radical)
-```
+Education
+- PG‑DMC Mobile Computing, Sunbeam Institute
+- B.Tech, Computer Science & Engineering — 73% (2025)
 
-**✅ Ultra-concise, recruiter-friendly version ready to copy-paste!** 🎯
+Core strengths
+- Frontend: React, React Native, JavaScript (ES6+)
+- Backend: Node.js, Express, Spring Boot
+- Mobile: Android (Java), iOS (Swift)
+- Databases: MongoDB, MySQL
+- AI & Cloud: Vertex AI (certified), integrating LLMs & ML services
+- Tools: Git, Docker, RESTful APIs, CI/CD basics
+
+Selected highlights
+- Freelance: Designed and delivered a complete production website — [phpdhires.com](http://phpdhires.com/) (end-to-end delivery: UI, backend, integrations, and deployment)
+- Safhire.ai: Built React frontends and Node/Express APIs for a live HR platform
+- Hackathon Winner: Delivered a working blog system within 6 hours
+
+Featured projects
+| Project | Tech | Link |
+|--------:|:----:|:-----|
+| HireWrite | React Native, Node, MySQL | https://github.com/MaheshSamale/HireWrite-Project |
+| Cover Letter AI | React, Vertex AI | https://github.com/MaheshSamale/cover-letter-generator |
+| CA Assist | React, MongoDB | https://github.com/MaheshSamale/ca-assist-tool |
+
+Freelance work
+- phpdhires.com — Built and launched the live website (full lifecycle: design → development → testing → deployment). Link: http://phpdhires.com/
+  - Role: End-to-end delivery (UI/UX, backend functionality, integrations, hosting)
+  - Outcome: Production-ready site serving client needs
+
+Open to
+- Freelance & contract work
+- Full‑time roles in product teams
+- Collaborations on AI-enabled mobile/web apps
+
+GitHub stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=MaheshSamale&show_icons=true&theme=radical)  
