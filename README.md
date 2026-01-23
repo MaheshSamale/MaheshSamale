@@ -10,7 +10,7 @@ A practical, delivery-focused developer building production web and mobile apps 
 
 Education
 - PG‑DMC Mobile Computing, Sunbeam Institute
-- B.Tech, Computer Science & Engineering — 7.8 (2025)
+- B.Tech, Computer Science & Engineering — CGPA 7.8  (2025)
 
 Core strengths
 - Frontend: React, React Native, JavaScript (ES6+)
