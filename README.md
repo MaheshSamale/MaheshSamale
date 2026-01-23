@@ -20,7 +20,7 @@ Core strengths
 - AI & Cloud: Vertex AI (certified), integrating LLMs & ML services
 - Tools: Git, Docker, RESTful APIs, CI/CD basics
 
-Technologies (icons)
+Technologies 
 <br>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> 
