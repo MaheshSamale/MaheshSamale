@@ -1,16 +1,12 @@
-# Hi — I’m Mahesh Samale 👋
+# Hi — I’m Mahesh  👋
 
 Full‑Stack Developer • Mobile App Enthusiast • AI Integrator
 
-Parbhani → Pune • 📧 [maheshsamale7@gmail.com](mailto:maheshsamale7@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-samale-a0140b2b2)
 
 ---
 
 A practical, delivery-focused developer building production web and mobile apps with AI capabilities. I ship end-to-end features — from UI to backend APIs and data — and enjoy solving real user problems with pragmatic engineering.
 
-Education
-- PG‑DMC Mobile Computing, Sunbeam Institute
-- B.Tech, Computer Science & Engineering — CGPA 7.8  (2025)
 
 Core strengths
 - Frontend: React, React Native, JavaScript (ES6+)
